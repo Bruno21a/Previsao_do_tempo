@@ -1,12 +1,17 @@
-# React + Vite
+# 🌦️ Previsão do Tempo - HG Weather API  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto de previsão do tempo em tempo real, desenvolvido a partir do curso React: praticando o consumo de APIS da Alura (https://cursos.alura.com.br/certificate/182192e2-7f89-4c70-b4d8-2e4cd7454f0e?lang=pt_BR). Consome a API da HG Weather para mostrar dados meteorológicos de qualquer cidade.  
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades  
+- Busca por cidade e estado (ex: `São Paulo, SP`).  
+- Exibe temperatura atual, condições climáticas, umidade e vento.  
+- Design responsivo (funciona em mobile e desktop).  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tecnologias  
+- HTML5, CSS3 e JavaScript (Vanilla).  
+- API da [HG Weather](https://hgbrasil.com/weather).  
+- Fetch API para requisições HTTP.  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Como Usar  
+1. Clone o repositório.
+2.  
