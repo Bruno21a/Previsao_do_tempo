@@ -1,0 +1,35 @@
+.form-search {
+  width: 100%;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 8px 16px;
+  border-radius: 25px;
+}
+
+.search-bar input {
+  width: 100%;
+  border: none;
+  font-size: 16px;
+  background-color: transparent;
+  color: #ffffff;
+  outline: none;
+}
+
+.search-bar input::placeholder {
+  color: #ffffff;
+}
+
+.search-bar button {
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+}
+
+.search-bar button > img {
+  width: 16px;
+  height: 16px;
+}

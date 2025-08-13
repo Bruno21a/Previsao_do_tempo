@@ -1,0 +1,17 @@
+.forecast-item {
+  background-color: #4463d5;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  width: 100px;
+}
+
+.forecast-day {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.forecast-temp {
+  margin-top: 5px;
+  font-size: 1rem;
+}
