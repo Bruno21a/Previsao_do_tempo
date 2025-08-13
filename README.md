@@ -14,4 +14,6 @@ Um projeto de previsão do tempo em tempo real, desenvolvido a partir do curso R
 
 ## 📦 Como Usar  
 1. Clone o repositório.
-2.  
+2. Renomeie `.env.example` para `.env.local`.  
+3. Obtenha uma chave gratuita em [HG Weather](https://hgbrasil.com/weather).  
+4. Insira sua chave no arquivo `.env.local`:  
