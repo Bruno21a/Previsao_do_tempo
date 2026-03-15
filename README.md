@@ -1,6 +1,6 @@
 # 🌦️ Previsão do Tempo - HG Weather API  
 
-Um projeto de previsão do tempo em tempo real, desenvolvido a partir do curso React: praticando o consumo de APIS da Alura (https://cursos.alura.com.br/certificate/182192e2-7f89-4c70-b4d8-2e4cd7454f0e?lang=pt_BR). Consome a API da HG Weather para mostrar dados meteorológicos de qualquer cidade.  
+Um projeto de previsão do tempo em tempo real, desenvolvido a partir do curso React: praticando o consumo de APIs da Alura (https://cursos.alura.com.br/certificate/182192e2-7f89-4c70-b4d8-2e4cd7454f0e?lang=pt_BR). Consome a API da HG Weather para mostrar dados meteorológicos de qualquer cidade.  
 
 ## 🚀 Funcionalidades  
 - Busca por cidade e estado (ex: `São Paulo, SP`).  
